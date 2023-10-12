@@ -4,6 +4,8 @@ export const NavBar = () => {
   return (
     <div className="nav">
       <ul>
+
+        
         <li>
           <Link to="/">Home</Link>
         </li>
