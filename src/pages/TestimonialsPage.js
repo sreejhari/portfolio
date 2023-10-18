@@ -11,12 +11,12 @@ export const TestimonialsPage = () => {
          <div>
           <h3>Nikitha,Sparks Foundation</h3>
           <p>
-          She has done a basic banking system project using frontend programming. She has done a splendid job during the internship period.
+          Sreeja has done a basic banking system project using frontend programming. She has done a splendid job during the internship period.
            </p>
         </div>
        <div>
          <h3>Gowthami, SWEC</h3>         
-         <p> She has done a splendid job by securing first prize in resesrch paper publication of mini project, 2023.
+         <p> Sreeja has done a splendid job by securing first prize in resesrch paper publication of mini project, 2023.
           </p>
           
         </div>

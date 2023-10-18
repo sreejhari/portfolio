@@ -15,7 +15,7 @@ export const PortfolioPage = () => {
               <h3>Front-End</h3>
               <p>
                 Worked on web based projects such as
-                Basic-Banking-System,Tic-Tac-Toe game,To-do list.
+               Tic-Tac-Toe game,To-do list,portfolio.
               </p>
             </div>
             <div>
